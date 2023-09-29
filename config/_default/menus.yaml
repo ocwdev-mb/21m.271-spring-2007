@@ -1,0 +1,17 @@
+leftnav:
+- identifier: dfee16df-611d-2e2d-9aea-57733bc82812
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4cfb659a-8d63-6b5b-de13-f5d03b53024d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: b1fa3a59-54e9-7edc-84ad-d2a7877c3ffa
+  name: Exams
+  pageRef: /pages/exams
+  weight: 30
+- identifier: 7ce7e81a-3acc-3957-2f5c-c5a02dab2d7f
+  name: Listening and Scores
+  pageRef: /pages/listening-and-scores
+  weight: 40
